@@ -1,4 +1,4 @@
-﻿#D3 Challenge
+﻿## D3 Challenge
 
 The health risks facing particular demographics by sifting through information from the U.S. Census Bureau and the Behavioral Risk Factor Surveillance System.
 
